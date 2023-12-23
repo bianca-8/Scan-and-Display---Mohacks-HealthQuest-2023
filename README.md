@@ -1,7 +1,7 @@
 <h1>Mohacks HealthQuest WINNER</h1>
 
 <p>Oct 21 2023</p>
-Received 2nd place out of 16 groups!
+Received 2nd place out of 18 groups!
 
 <h2>Inspiration</h2>
 Presto cards which work by users tapping the card every time they go onto a bus, instead they will tap the card or get their QR code scanned every time they enter a new room in the hospital.
